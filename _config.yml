@@ -26,7 +26,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Chris and I'm a student at North Virginia Community College, I have been attending this school since I was 16 when I duel-enrolled full time. I will get my A.S. in Computer Science and a High School Diploma at the same time. I have always been passionate for both cybersecurity and FOSS, have experence in scripting - both in batch and python, and have personal hardening personal computer systems,
 
-  I am most skilled in: <mark>Linux</mark>, <mark>Python</mark>, and <mark>Cybersecurity Knowlage</mark>
+  I am most skilled in: <mark>Linux</mark> <mark>Python</mark> and <mark>Cybersecurity Knowlage</mark>
 
 # Projects Section
 # projects_title: Projects

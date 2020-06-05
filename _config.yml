@@ -52,7 +52,7 @@ more_content: | # this will include new lines to allow paragraphs
    - Wilderness Exploration and Survival
 
 # Footer
-footer_show_references: true
+# footer_show_references: true
 
 # Build settings
 remote_theme: sproogen/resume-theme

@@ -24,7 +24,7 @@ github_username:  christoferwhite
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Chris and I'm a student at North Virginia Community College, I have been attending since 16, and am currently duel-enrolled full time. I will receve a A.S. in Computer Science and a High School Diploma at the same time.
+  Hi, my name's Chris and I'm a student at North Virginia Community College; I have been attending since 16, and am currently duel-enrolled full time. I will receve a A.S. in Computer Science and a High School Diploma at the same time.
   I have always been passionate for both cybersecurity and FOSS, have exprence scripting, and am quite proficent at hardening personal computer systems, and engaging in good OPSEC for both security and privacy.
 
   I am most skilled in: <mark>Linux</mark> <mark>Python</mark> and <mark>Security</mark>

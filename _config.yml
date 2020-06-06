@@ -30,7 +30,7 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>Linux</mark> <mark>Python</mark> and <mark>Security</mark>
 
 # Projects Section
-# projects_title: Projects
+projects_title: Projects
 
 # Education Section
 educaton_title: Education

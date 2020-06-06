@@ -1,4 +1,4 @@
-- layout: middle
+- layout: top-middle
   name: christoferwhite/n1qlite repo
   link: https://github.com/christoferwhite/n1qlite
   github: christoferwhite/n1qlite
@@ -7,7 +7,7 @@
   description: | # this will include new lines to allow paragraphs
     I started this project as a way if learning <mark>Antlr4</mark> I have learned many skills through this as it has forced me too get confortable with java, as well as allowing me too explore some more abstract concepts such as left recursion, while engaging in agile development practices with my other contributer.
 
-- layout: middle
+- layout: top-middle
   name: Unoffical Pentesting Experence
   link: https://embarkcenter.org/
   quote: >

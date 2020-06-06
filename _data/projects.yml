@@ -1,5 +1,5 @@
 - layout: top-middle
-  name: N1ql Parser
+  name: N1qlite
   link: https://github.com/christoferwhite/n1qlite
   github: christoferwhite/n1qlite
   quote: >

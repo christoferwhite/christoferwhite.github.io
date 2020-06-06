@@ -42,15 +42,15 @@ experience_title: Job Experience
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in Penatration Testing, privacy, and security engeneering, some of my other interests and hobbies are:
-   - Art
-   - [Photography](https://chrisabyss.github.io/photography/)
-   - Phliosophy
-   - Debate
-   - Mountain Biking
-   - Whitewater Kayaking
-   - Canyoneering
-   - Splunking
-   - Wilderness Exploration and Survival
+    - Art
+    - [Photography](https://chrisabyss.github.io/photography/)
+    - Phliosophy
+    - Debate
+    - Mountain Biking
+    - Whitewater Kayaking
+    - Canyoneering
+    - Splunking
+    - Wilderness Exploration and Survival
 
 # Footer
 footer_show_references: false

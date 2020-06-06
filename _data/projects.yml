@@ -1,8 +1,15 @@
-- layout: top-middle
-  name: christoferwhite/n1qlite
+- layout: middle
+  name: christoferwhite/n1qlite repo
   link: https://github.com/christoferwhite/n1qlite
   github: christoferwhite/n1qlite
   quote: >
     A parser for the n1ql language. This project will execute queries and updates against a Couchbase Lite database.
   description: | # this will include new lines to allow paragraphs
     I started this project as a way if learning <mark>Antlr4</mark> I have learned many skills through this as it has forced me too get confortable with java, as well as allowing me too explore some more abstract concepts such as left recursion, while engaging in agile development practices with my other contributer.
+
+- layout: middle
+  name: Unoffical Pentesting Experence
+  link: https://embarkcenter.org/
+  quote: >
+  description: | # this will include new lines to allow paragraphs
+    While attending this education center they let me play around on there network where I found numerous security flaws and a unsecured router. I helped guide them on how too harden the network.

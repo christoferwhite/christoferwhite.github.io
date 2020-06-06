@@ -29,19 +29,19 @@ about_content: | # this will include new lines to allow paragraphs
 
   I am most skilled in: <mark>Linux</mark> <mark>Python</mark> and <mark>Security</mark>
 
-# Projects Section
-projects_title: Projects
-
 # Education Section
 educaton_title: Education
 
+# Projects Section
+projects_title: Projects
+
 # Experience Section
-experience_title: Experience
+experience_title: Job Experience
 
   # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+  Alongside my interests in Penatration Testing, privacy, and security engeneering, some of my other interests and hobbies are:
    - Art
    - [Photography](https://chrisabyss.github.io/photography/)
    - Phliosophy
@@ -49,10 +49,11 @@ more_content: | # this will include new lines to allow paragraphs
    - Mountain Biking
    - Whitewater Kayaking
    - Canyoneering
+   - Splunking
    - Wilderness Exploration and Survival
 
 # Footer
-# footer_show_references: true
+footer_show_references: false
 
 # Build settings
 remote_theme: sproogen/resume-theme

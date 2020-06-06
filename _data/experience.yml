@@ -7,3 +7,9 @@
    We believe that by engaging the community in our mission we can move the needle creatively and environmentally. When we make craft materials available at a low cost to the community, we encourage creative exploration.  When we build creative skills with reclaimed materials in our workshops, we start to change the perception about the value of everyday items. As we share our mission to divert usable materials from the waste stream, we help create a mindfulness of over-consumption and waste. As our community comes to value greater creative expression and reduction of waste, we move toward a more livable and resourceful society.
   description: | # this will include new lines to allow paragraphs
     Everything from technical problems too heavy labor, volenteering for a small non-profit has taught me numerous valuble skills while working in a busy, unstructured workplace where independance and self-motivation are essential -  and an ability too adapt too every situation that presents itself while keeping cool is just a part of the job.
+
+- layout: left
+  company: (Unoffical) Pentesting for a school
+  link: https://embarkcenter.org/
+  description: | # this will include new lines to allow paragraphs
+    While attending this education center they let me play around on there network where I found numerous security flaws and a unsecured router. I helped guide them on how too harden the network.
